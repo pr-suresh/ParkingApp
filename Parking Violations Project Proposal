@@ -1,0 +1,24 @@
+Project Proposal
+
+Client
+A tech start up wants to build an app that identifies specific spots in NYC that
+are more prone to parking violations so that people can avoid those areas or
+look for alternative parking arrangements.
+
+Need
+Inadequate free parking spots in the city which gets worse during weekends and
+when major events happen in the area.
+
+Data Description
+Data is primarily obtained from the NYC Parking violations data set
+
+Solution Path
+Access the data to identify what are some specific characteristics of areas, day,
+vehicles that are more prone to be involved in a parking violation.
+
+Tools Used
+I will be using Excel to perform basic cleaning and merging other datasets, Tableau
+to visualize the findings.
+
+MVP will be a better scoping of the project and identifying one or more key
+patterns through visualization.
