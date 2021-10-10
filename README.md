@@ -1,4 +1,4 @@
-# ParkingApp
+# Smart Park Parking App
 
 Abstract
 The goal of this project is to help the client build an app "Park Smart" which can be used by someone who is trying to find a free public parking spot in NYC. I used datasets from the website NYC Open data.
