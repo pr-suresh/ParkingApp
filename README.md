@@ -1,4 +1,4 @@
-# Smart Park Parking App
+# Park Smart Parking App
 
 ## Abstract
 
